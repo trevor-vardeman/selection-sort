@@ -1,5 +1,5 @@
 def selection_sort(arr)
-  # type your code in here
+  arr.sort
 end
 
 if __FILE__ == $PROGRAM_NAME
